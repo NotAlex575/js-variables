@@ -6,6 +6,12 @@ console.log(name);
 
 // 2. Tipi primitivi
 // Crea tre variabili chiamate number, text e bool e assegna rispettivamente
+const number = 7;
+const text = "si";
+const bool = true;
+console.log(number);
+console.log(text)
+console.log(bool)
 // un numero, una stringa e un valore booleano.
 // Stampa tutti i valori nella console.
 
